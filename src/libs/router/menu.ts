@@ -29,4 +29,10 @@ export default [
         name: "menus.workerList",
         route: "/worker/list"
     },
+    {
+        code: "999",
+        icon: "el-icon-mostly-cloudy",
+        name: "menus.dagDemo",
+        route: "/test/dagDemo"
+    },
 ] as Array<MenuConfig>
